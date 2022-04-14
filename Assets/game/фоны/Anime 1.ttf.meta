@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a203b2d3570b2b94a854425278975555
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anime Ace v05
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3072c608420822649bac5d91676ffb5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
